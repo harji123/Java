@@ -1,6 +1,7 @@
 package com.nirman.easymock;
 
 public class Customer {
+	//kkkkkkkkkkkkkkkkkkkkkkkkkk
 
 	String name;
 	Retailer retailer;
