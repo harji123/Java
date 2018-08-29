@@ -4,7 +4,7 @@ public class Customer {
 
 	String name;
 	Retailer retailer;
-
+//brad kumar
 	public int getProductPrice(String productId) throws Exception{
 		int price = retailer.getPriceForProduct(productId);
 		return price;
