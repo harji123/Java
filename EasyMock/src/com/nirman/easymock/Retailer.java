@@ -17,7 +17,7 @@ public class Retailer {
 		}
 		return price;
 	}
-
+//kutaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	private int getPrice(int basePrice) {
 		int finalPrice = basePrice + ((basePrice * getTaxRate()) / 100);
 		return finalPrice;
